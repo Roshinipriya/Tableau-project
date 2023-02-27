@@ -2,13 +2,13 @@
 AirBnb Data Analysis
 
 INTRODUCTION:
-Dashboard representing the room tyes, property prices of many locations in US and the revenue generated during 2016
+ Dashboard representing the room tyes, property prices of many locations in US and the revenue generated during 2016
 
 PROBLEM STATEMENT:
-To help make decisions on which property to buy and rent out inorder to make more profit
+ To help make decisions on which property to buy and rent out inorder to make more profit
 
 DATASET: 
-The data about the room types, zipcodes and revenue details were gathered as part of the online course
+ The data about the room types, zipcodes and revenue details were gathered as part of the online course
 
 TOOL USED: Tableau 
 
